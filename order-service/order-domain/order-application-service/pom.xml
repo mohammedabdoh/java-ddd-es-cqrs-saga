@@ -17,6 +17,20 @@
       <groupId>com.mabdoh</groupId>
       <artifactId>order-domain-core</artifactId>
     </dependency>
+    <dependency>
+      <groupId>com.mabdoh</groupId>
+      <artifactId>common-domain</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-validation</artifactId>
+      <version>2.7.1</version>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-tx</artifactId>
+      <version>5.3.22</version>
+    </dependency>
   </dependencies>
 
 </project>
